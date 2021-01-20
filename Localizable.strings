@@ -1,0 +1,53 @@
+"A_OK" = "OK";
+"A_CANCEL" = "Cancel";
+"A_ERROR" = "Error";
+
+"M_SEARCHING" = "Searching for iVCam PC...";
+"M_FOUND_IVCAM" = "Found iVCam on \"%@\"";
+"M_FOUND_IVCAMS" = "Found %ld iVCam PC clients";
+"M_USB_CONNECTED" = "Connected to PC via USB";
+"M_CONNECT_TO" = "Connect to";
+"M_CLEAR_ALL" = "Clear All";
+"M_INPUT_IP" = "Please enter the iVCam PC's IP address if it can't be detected:";
+"M_NO_WIFI" = "iVCam requires Wi-Fi or USB to connect to PC!";
+
+"O_PORTRAIT" = "Portrait";
+"O_LANDSCAPE" = "Landscape";
+"O_QUALITY_HIGH" = "High";
+"O_QUALITY_MEDIUM" = "Medium";
+"O_QUALITY_LOW" = "Low";
+"O_AUDIO_NONE" = "None";
+"O_AUDIO_MONO" = "Mono";
+"O_AUDIO_STEREO" = "Stereo";
+"O_ASK_FOR_PURCHASE" = "Purchase to use this feature?";
+"O_RESTART_APP" = "Please restart the app to take effect!";
+
+"P_PURCHASED" = "Purchased";
+"P_PURCHASE_HINT" = "Purchase to remove ads, watermarks and use full features";
+"P_PURCHASE_THANK" = "Thanks for purchasing!";
+"P_PURCHASE_RESTORED" = "Purchase restored!";
+"P_IAP_A_TITLE" = "BASIC ANNUAL";
+"P_IAP_A_DESC" = "Unlimited use of All features except Microphone";
+"P_IAP_B_TITLE" = "PREMIUM ANNUAL";
+"P_IAP_B_DESC" = "Unlimited use of All features";
+"P_IAP_F_TITLE" = "PERMANENT";
+"P_IAP_F_DESC" = "Permanent & unlimited use of All features";
+
+"V_AEAF_LOCK" = "AE/AF LOCK";
+"V_AE_LOCK" = "AE LOCK";
+"V_WIFI_GOOD" = "Network is good!";
+"V_WIFI_BAD" = "Weak Wi-Fi signal, please stay close to the router!";
+"V_WATERMARK_DISAPPEAR" = "The watermark will disappear for %@";
+
+"S_THANK_YOU" = "THANK YOU";
+"S_ASK_FOR_RATE" = "Give us a ⭐️⭐️⭐️⭐️⭐️ rating to encourage us?";
+"S_RECOMMEND_CONTENT" = "%@ - Turn your iPhone/iPad into an HD webcam for Windows PC!";
+"S_TRIAL_EXPIRED" = "Trial expired and you can only use 640x480 low quality video!";
+"S_HELP" = "
+<h2>How to connect to PC?</h2>
+<p>First, please download and install our Windows client software on your PC from:
+<p>##DOWNLOAD_URL##
+<p>Then run the client software and allow it through your Windows Firewall.
+<p>To connect via Wi-Fi, make sure your iPhone/iPad is using Wi-Fi and is in the same LAN as your PC.
+<p>To connect via USB, make sure iTunes is installed on your PC.
+<p>For more information, please visit:<br/>";

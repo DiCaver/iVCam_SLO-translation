@@ -1,0 +1,67 @@
+
+/* Class = "UILabel"; text = "Video Orientation"; ObjectID = "0g1-2H-KOj"; */
+"0g1-2H-KOj.text" = "Video Orientation";
+
+/* Class = "UITableViewSection"; headerTitle = "OPTIONS"; ObjectID = "6KU-5l-5Dl"; */
+"6KU-5l-5Dl.headerTitle" = "OPTIONS";
+
+/* Class = "UILabel"; text = "Write a Review"; ObjectID = "H7i-fP-aYO"; */
+"H7i-fP-aYO.text" = "Write a Review";
+
+/* Class = "UILabel"; text = "Video Size"; ObjectID = "NEL-tv-Qch"; */
+"NEL-tv-Qch.text" = "Video Size";
+
+/* Class = "UILabel"; text = "Video Encoder"; ObjectID = "PMb-dW-a7d"; */
+"PMb-dW-a7d.text" = "Video Encoder";
+
+/* Class = "UIButton"; normalTitle = "Terms of Use"; ObjectID = "XnP-z0-34C"; */
+"XnP-z0-34C.normalTitle" = "Terms of Use";
+
+/* Class = "UILabel"; text = "Share with Friends"; ObjectID = "dDj-Kv-Oh4"; */
+"dDj-Kv-Oh4.text" = "Share with Friends";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "dcc-pF-gWH"; */
+"dcc-pF-gWH.normalTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Video Frame Rate"; ObjectID = "eCL-jJ-wVs"; */
+"eCL-jJ-wVs.text" = "Video Frame Rate";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "eNe-Gq-Hdd"; */
+"eNe-Gq-Hdd.title" = "Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "Purchase"; ObjectID = "gve-DC-zXq"; */
+"gve-DC-zXq.headerTitle" = "Purchase";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "itL-Kl-NIQ"; */
+"itL-Kl-NIQ.text" = "Contact us";
+
+/* Class = "UINavigationItem"; title = "Help"; ObjectID = "jus-c1-CYE"; */
+"jus-c1-CYE.title" = "Help";
+
+/* Class = "UILabel"; text = "Audio Recording"; ObjectID = "mZs-jG-vob"; */
+"mZs-jG-vob.text" = "Audio Recording";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "nI1-Tn-PiB"; */
+"nI1-Tn-PiB.text" = "Help";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "nrd-4a-2F9"; */
+"nrd-4a-2F9.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Restore Purchases"; ObjectID = "rl6-3h-yn9"; */
+"rl6-3h-yn9.normalTitle" = "Restore Purchases";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "v3g-7u-ZD0"; */
+"v3g-7u-ZD0.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Purchase Full Version"; ObjectID = "vih-ij-Lop"; */
+"vih-ij-Lop.text" = "Purchase Full Version";
+
+/* Class = "UITableViewSection"; headerTitle = "Others"; ObjectID = "xm0-PG-2Rj"; */
+"xm0-PG-2Rj.headerTitle" = "Others";
+
+/* Class = "UILabel"; text = "Video Quality"; ObjectID = "yvU-8M-NIj"; */
+"yvU-8M-NIj.text" = "Video Quality";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "zwU-Uy-rbe"; */
+"zwU-Uy-rbe.text" = "|";
+
