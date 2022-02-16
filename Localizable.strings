@@ -23,17 +23,28 @@
 "M_NO_WIFI" = "iVCam potrebuje Wi-Fi ali USB za povezavo do PC!";
 
 "O_PORTRAIT" = "Portrait";
+"O_PORTRAIT" = "Pokončno";
 "O_LANDSCAPE" = "Landscape";
+"O_LANDSCAPE" = "Ležeče";
 "O_QUALITY_HIGH" = "High";
+"O_QUALITY_HIGH" = "Visoka";
 "O_QUALITY_MEDIUM" = "Medium";
+"O_QUALITY_MEDIUM" = "Srednja";
 "O_QUALITY_LOW" = "Low";
+"O_QUALITY_LOW" = "Nizka";
 "O_AUDIO_NONE" = "None";
+"O_AUDIO_NONE" = "Brez";
+"O_AUDIO_MONO" = "Mono";
 "O_AUDIO_MONO" = "Mono";
 "O_AUDIO_STEREO" = "Stereo";
+"O_AUDIO_STEREO" = "Stereo";
 "O_ASK_FOR_PURCHASE" = "Purchase to use this feature?";
+"O_ASK_FOR_PURCHASE" = "Naroči za uporabo te funkcije?";
 "O_RESTART_APP" = "Please restart the app to take effect!";
+"O_RESTART_APP" = "Prosim ponovno zaženi program, za uveljavo sprememb!";
 
 "P_PURCHASED" = "Purchased";
+"P_PURCHASED" = "Naročeno";
 "P_PURCHASE_HINT" = "Purchase to remove ads, watermarks and use full features";
 "P_PURCHASE_THANK" = "Thanks for purchasing!";
 "P_PURCHASE_RESTORED" = "Purchase restored!";
