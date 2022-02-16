@@ -25,6 +25,7 @@
     <MenuLanguageHU>Magyar</MenuLanguageHU>
     <MenuLanguageBG>Български</MenuLanguageBG>
     <MenuLanguageCA>Català</MenuLanguageCA>
+    <MenuLanguageSI>Slovenščina</MenuLanguageSI>
 
     <MainUIFont>Segoe UI</MainUIFont>
     <VideoTextFont>Tahoma</VideoTextFont>
@@ -2075,4 +2076,95 @@
     <S_SN_NETWORK_ERR>¡Error al connectar-se al servidor de registres!</S_SN_NETWORK_ERR>
     <S_SN_REG_OK>¡Registre realitzat i l'aplicació es tornarà a executar!</S_SN_REG_OK>
   </ca>
+  <sl language="Slovenščina">
+    <MainUIFont>Segoe UI</MainUIFont>
+    <VideoTextFont>Tahoma</VideoTextFont>
+    <VideoSubTextFont>Arial</VideoSubTextFont>
+    <MenuLanguage>Jezik</MenuLanguage>
+    <Copyright>© e2eSoft. Vse pravice pridržane.</Copyright>
+    <FullVersion>polna različica</FullVersion>
+    <HomePage>Domača stran</HomePage>
+    <About>About</About>
+    <Attention>Attention</Attention>
+    <OK>Vredu</OK>
+    <Cancel>Prekliči</Cancel>
+    <ConfirmDrvEnable>iVCam driver is disabled, enable it now?</ConfirmDrvEnable>
+    <ConfirmDrvEnable>iVCam gonilnik je onemogočen. Omogočim sedaj?</ConfirmDrvEnable>
+    <MenuPreview>Preview</MenuPreview>
+    <MenuPreview>Predogled</MenuPreview>
+    <MenuSettings>Settings</MenuSettings>
+    <MenuSettings>Nastavitve</MenuSettings>
+    <MenuAbout>About</MenuAbout>
+    <MenuHardware>Hardware Decoding</MenuHardware>
+    <MenuStayOnTop>Always on Top</MenuStayOnTop>
+    <MenuHelp>Help</MenuHelp>
+    <MenuExit>Exit</MenuExit>
+    <CameraNotConnected>Not connected</CameraNotConnected>
+    <CameraConnected>Connected</CameraConnected>
+    <CameraDisconnected>Disconnected</CameraDisconnected>
+    <Record>Record</Record>
+    <Stop>Stop</Stop>
+    <Snapshot>Snapshot</Snapshot>
+    <Settings>Settings</Settings>
+    <WaitForConnection>Waiting for iVCam connection...</WaitForConnection>
+    <ScanApp>Scan to download the mobile app</ScanApp>
+    <ProtocolError>Please upgrade to the latest version!</ProtocolError>
+    <FoundNewVersion>Found new version %s, update now?</FoundNewVersion>
+    <TrialExpired>Trial expired and some features will not be available!</TrialExpired>
+    <TrialCaution>Please use with caution on important occasions:</TrialCaution>
+    <TrialVoice>There is a "Trial Version" female voice in the iVCam microphone, which can be removed by purchase!</TrialVoice>
+    <AllowUsbDebug>Please accept "Allow USB Debugging" on your phone</AllowUsbDebug>
+    <PageGeneral> General </PageGeneral>
+    <PageMisc> Miscs </PageMisc>
+    <GrpVideo> Video </GrpVideo>
+    <S_Orientation>Video Orientation:</S_Orientation>
+    <S_Landscape>Landscape</S_Landscape>
+    <S_Portrait>Portrait</S_Portrait>
+    <S_VideoSize>Video Size:</S_VideoSize>
+    <S_FPS>Video FPS:</S_FPS>
+    <S_VideoQuality>Video Quality:</S_VideoQuality>
+    <S_VideoFormat>Video Format:</S_VideoFormat>
+    <S_OneSizeOnly>This size only</S_OneSizeOnly>
+    <S_Quality_Low>Low</S_Quality_Low>
+    <S_Quality_Medium>Medium</S_Quality_Medium>
+    <S_Quality_High>High</S_Quality_High>
+    <GrpAudio> Audio </GrpAudio>
+    <S_AudioInputDevice>Recording Device:</S_AudioInputDevice>
+    <S_AudioInputDevicePhone>Mobile Phone</S_AudioInputDevicePhone>
+    <S_AudioInputDeviceNone>None</S_AudioInputDeviceNone>
+    <S_AudioOutputDevice>Playback Device:</S_AudioOutputDevice>
+    <S_AudioOutputDeviceNone>None</S_AudioOutputDeviceNone>
+    <S_RunAtStartup>Run at Startup</S_RunAtStartup>
+    <S_ShowAnimation>Show waiting for connection animation</S_ShowAnimation>
+    <S_GenerateLogs>Generate Logs</S_GenerateLogs>
+    <S_RevealLogs>Reveal in File Explore</S_RevealLogs>
+    <S_VideoRenderer>Video Renderer:</S_VideoRenderer>
+    <S_Default>Default</S_Default>
+    <S_SaveFolder>Media Save Folder:</S_SaveFolder>
+    <S_DevName>Device Name:</S_DevName>
+    <S_MultipleInstances>Run multiple iVCam instances?</S_MultipleInstances>
+    <S_CamSettings>Camera Settings</S_CamSettings>
+    <S_Exposure>Exposure:</S_Exposure>
+    <S_ISO>ISO:</S_ISO>
+    <S_AE>AE</S_AE>
+    <S_AF>AF</S_AF>
+    <S_AWB>Auto White Balance</S_AWB>
+    <S_CamControls>Controls:</S_CamControls>
+    <S_Flash>Flash</S_Flash>
+    <S_Beautify>Beautify</S_Beautify>
+    <S_Mirror>Mirror</S_Mirror>
+    <S_Flip>Flip</S_Flip>
+    <S_SwitchCam>Switch cameras</S_SwitchCam>
+    <S_ScreenOff>Screen off</S_ScreenOff>
+    <S_SN_REGISTER>Register</S_SN_REGISTER>
+    <S_SN_INPUT>License code:</S_SN_INPUT>
+    <S_SN_BUY>Purchase license code</S_SN_BUY>
+    <S_SN_BUY_DESC>About purchase</S_SN_BUY_DESC>
+    <S_SN_ATTENTION>You DO NOT need to purchase the PC client software if you have already purchased the iVCam APP, just be free to use it.</S_SN_ATTENTION>
+    <S_SN_INVALID>Invalid license code!</S_SN_INVALID>
+    <S_SN_USED>The license code has been used!</S_SN_USED>
+    <S_SN_EXPIRED>The license code has expired!</S_SN_EXPIRED>
+    <S_SN_NETWORK_ERR>Failed to connect to the registration server!</S_SN_NETWORK_ERR>
+    <S_SN_REG_OK>Registration done and the application will be re-run!</S_SN_REG_OK>
+  </sl>
 </strings>

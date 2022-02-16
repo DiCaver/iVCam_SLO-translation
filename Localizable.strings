@@ -1,15 +1,26 @@
 "A_OK" = "OK";
+"A_OK" = "Vredu";
 "A_CANCEL" = "Cancel";
+"A_CANCEL" = "Prekliči";
 "A_ERROR" = "Error";
+"A_ERROR" = "Napaka";
 
 "M_SEARCHING" = "Searching for iVCam PC...";
+"M_SEARCHING" = "Iščem iVCam računalnik...";
 "M_FOUND_IVCAM" = "Found iVCam on \"%@\"";
+"M_FOUND_IVCAM" = "Našel iVCam na \"%@\"";
 "M_FOUND_IVCAMS" = "Found %ld iVCam PC clients";
+"M_FOUND_IVCAMS" = "Našel %ld iVCam PC kliente";
 "M_USB_CONNECTED" = "Connected to PC via USB";
+"M_USB_CONNECTED" = "Povezan z PC preko USB";
 "M_CONNECT_TO" = "Connect to";
+"M_CONNECT_TO" = "Poveži se na";
 "M_CLEAR_ALL" = "Clear All";
+"M_CLEAR_ALL" = "Počisti vse";
 "M_INPUT_IP" = "Please enter the iVCam PC's IP address if it can't be detected:";
+"M_INPUT_IP" = "Prosim vnesi iVCam PC-jev IP naslov, če le ta ni bil prepoznan:";
 "M_NO_WIFI" = "iVCam requires Wi-Fi or USB to connect to PC!";
+"M_NO_WIFI" = "iVCam potrebuje Wi-Fi ali USB za povezavo do PC!";
 
 "O_PORTRAIT" = "Portrait";
 "O_LANDSCAPE" = "Landscape";
